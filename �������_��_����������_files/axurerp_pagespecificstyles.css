@@ -1,0 +1,1664 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:242px;
+    top:339px;
+    width:387px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_text {
+    position:absolute;
+    left:242px;
+    top:446px;
+    width:307px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:242px;
+    top:446px;
+    width:307px;
+    height:16px
+}
+
+.u2 {
+    position:absolute;
+    left:242px;
+    top:552px;
+    width:561px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:19px;
+    top:278px;
+    width:440px;
+    height:22px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#999999;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u4 {
+    position:absolute;
+    left:477px;
+    top:276px;
+    width:68px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 14px;
+    color:#FF33CC;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u5 {
+    position:absolute;
+    left:18px;
+    top:340px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:241px;
+    top:358px;
+    width:715px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:604px;
+    top:401px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:425px;
+    top:401px;
+    width:181px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:241px;
+    top:401px;
+    width:181px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:226px;
+    top:339px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:241px;
+    top:465px;
+    width:714px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:569px;
+    top:508px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:425px;
+    top:508px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:241px;
+    top:508px;
+    width:181px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:226px;
+    top:446px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:18px;
+    top:537px;
+    width:113px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:242px;
+    top:573px;
+    width:714px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:570px;
+    top:616px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:426px;
+    top:616px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:242px;
+    top:616px;
+    width:181px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:227px;
+    top:554px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_original {
+    background-image: url('../Проекты_по_категориям_files/u22_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:227px;
+    top:661px;
+    width:728px;
+    height:197px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:734px;
+    height:203px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:90px;
+    width:724px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:227px;
+    top:661px;
+    width:728px;
+    height:197px
+}
+
+.u24_original {
+    background-image: url('../Проекты_по_категориям_files/u24_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:386px;
+    top:889px;
+    width:20px;
+    height:20px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:386px;
+    top:889px;
+    width:20px;
+    height:20px
+}
+
+.u26 {
+    position:absolute;
+    left:243px;
+    top:891px;
+    width:370px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_text {
+    position:absolute;
+    left:20px;
+    top:175px;
+    width:239px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:20px;
+    top:175px;
+    width:239px;
+    height:17px
+}
+
+.u28 {
+    position:absolute;
+    left:20px;
+    top:207px;
+    width:191px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:299px;
+    top:175px;
+    width:280px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:20px;
+    top:241px;
+    width:204px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:298px;
+    top:207px;
+    width:193px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:299px;
+    top:239px;
+    width:93px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:704px;
+    top:892px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:814px;
+    top:889px;
+    width:44px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u35 {
+    position:absolute;
+    left:871px;
+    top:892px;
+    width:95px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_original {
+    background-image: url('../Проекты_по_категориям_files/u36_original.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1020px;
+    height:80px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1026px;
+    height:86px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:1016px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1020px;
+    height:80px
+}
+
+.u38_original {
+    background-image: url('../Проекты_по_категориям_files/u38_original.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:573px;
+    height:30px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:579px;
+    height:36px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:569px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:0px;
+    top:50px;
+    width:573px;
+    height:30px
+}
+
+.u40_original {
+    background-image: url('../Проекты_по_категориям_files/u40_original.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:587px;
+    top:54px;
+    width:145px;
+    height:34px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:151px;
+    height:40px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:587px;
+    top:54px;
+    width:145px;
+    height:34px
+}
+
+.u42 {
+    position:absolute;
+    left:596px;
+    top:59px;
+    width:132px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:16px;
+    top:12px;
+    width:136px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:866px;
+    top:59px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_original {
+    background-image: url('../Проекты_по_категориям_files/u45_original.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:0px;
+    top:81px;
+    width:1020px;
+    height:70px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1026px;
+    height:76px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:27px;
+    width:1016px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:0px;
+    top:81px;
+    width:1020px;
+    height:70px
+}
+
+.u47 {
+    position:absolute;
+    left:15px;
+    top:106px;
+    width:358px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_text {
+    position:absolute;
+    left:17px;
+    top:92px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:17px;
+    top:92px;
+    width:116px;
+    height:16px
+}
+
+.u49 {
+    position:absolute;
+    left:18px;
+    top:374px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:18px;
+    top:406px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:18px;
+    top:471px;
+    width:189px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:19px;
+    top:440px;
+    width:173px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_line {
+    background-image: url('../Проекты_по_категориям_files/u53_line.png');
+}
+
+.u53_line {
+    position:absolute;
+    left:14px;
+    top:431px;
+    width:196px;
+    height:3px;
+}
+
+.u53 {
+    position:absolute;
+    left:14px;
+    top:431px;
+    width:196px;
+    height:3px
+}
+
+.u54_line {
+    background-image: url('../Проекты_по_категориям_files/u54_line.png');
+}
+
+.u54_line {
+    position:absolute;
+    left:14px;
+    top:397px;
+    width:202px;
+    height:3px;
+}
+
+.u54 {
+    position:absolute;
+    left:14px;
+    top:397px;
+    width:202px;
+    height:3px
+}
+
+.u55_line {
+    background-image: url('../Проекты_по_категориям_files/u55_line.png');
+}
+
+.u55_line {
+    position:absolute;
+    left:14px;
+    top:463px;
+    width:196px;
+    height:3px;
+}
+
+.u55 {
+    position:absolute;
+    left:14px;
+    top:463px;
+    width:196px;
+    height:3px
+}
+
+.u56_line {
+    background-image: url('../Проекты_по_категориям_files/u56_line.png');
+}
+
+.u56_line {
+    position:absolute;
+    left:216px;
+    top:398px;
+    width:3px;
+    height:163px;
+}
+
+.u56 {
+    position:absolute;
+    left:216px;
+    top:398px;
+    width:3px;
+    height:163px
+}
+
+.u57_line {
+    background-image: url('../Проекты_по_категориям_files/u57_line.png');
+}
+
+.u57_line {
+    position:absolute;
+    left:14px;
+    top:365px;
+    width:202px;
+    height:3px;
+}
+
+.u57 {
+    position:absolute;
+    left:14px;
+    top:365px;
+    width:202px;
+    height:3px
+}
+
+.u58_line {
+    background-image: url('../Проекты_по_категориям_files/u58_line.png');
+}
+
+.u58_line {
+    position:absolute;
+    left:216px;
+    top:358px;
+    width:3px;
+    height:8px;
+}
+
+.u58 {
+    position:absolute;
+    left:216px;
+    top:358px;
+    width:3px;
+    height:8px
+}
+
+.u59_line {
+    background-image: url('../Проекты_по_категориям_files/u59_line.png');
+}
+
+.u59_line {
+    position:absolute;
+    left:12px;
+    top:366px;
+    width:3px;
+    height:32px;
+}
+
+.u59 {
+    position:absolute;
+    left:12px;
+    top:366px;
+    width:3px;
+    height:32px
+}
+
+.u60 {
+    position:absolute;
+    left:18px;
+    top:569px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:18px;
+    top:601px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_line {
+    background-image: url('../Проекты_по_категориям_files/u62_line.png');
+}
+
+.u62_line {
+    position:absolute;
+    left:14px;
+    top:592px;
+    width:202px;
+    height:3px;
+}
+
+.u62 {
+    position:absolute;
+    left:14px;
+    top:592px;
+    width:202px;
+    height:3px
+}
+
+.u63_line {
+    background-image: url('../Проекты_по_категориям_files/u63_line.png');
+}
+
+.u63_line {
+    position:absolute;
+    left:216px;
+    top:593px;
+    width:3px;
+    height:188px;
+}
+
+.u63 {
+    position:absolute;
+    left:216px;
+    top:593px;
+    width:3px;
+    height:188px
+}
+
+.u64_line {
+    background-image: url('../Проекты_по_категориям_files/u64_line.png');
+}
+
+.u64_line {
+    position:absolute;
+    left:14px;
+    top:560px;
+    width:202px;
+    height:3px;
+}
+
+.u64 {
+    position:absolute;
+    left:14px;
+    top:560px;
+    width:202px;
+    height:3px
+}
+
+.u65_line {
+    background-image: url('../Проекты_по_категориям_files/u65_line.png');
+}
+
+.u65_line {
+    position:absolute;
+    left:12px;
+    top:561px;
+    width:3px;
+    height:32px;
+}
+
+.u65 {
+    position:absolute;
+    left:12px;
+    top:561px;
+    width:3px;
+    height:32px
+}
+
+.u66_line {
+    background-image: url('../Проекты_по_категориям_files/u66_line.png');
+}
+
+.u66_line {
+    position:absolute;
+    left:2px;
+    top:320px;
+    width:1017px;
+    height:3px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:320px;
+    width:1017px;
+    height:3px
+}
+
+.u67_original {
+    background-image: url('../Проекты_по_категориям_files/u67_original.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:743px;
+    top:-2px;
+    width:277px;
+    height:30px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:283px;
+    height:36px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:273px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:743px;
+    top:-2px;
+    width:277px;
+    height:30px
+}
+
+.u69 {
+    position:absolute;
+    left:970px;
+    top:6px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:772px;
+    top:6px;
+    width:193px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_text {
+    position:absolute;
+    left:17px;
+    top:59px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:17px;
+    top:59px;
+    width:60px;
+    height:16px
+}
+
+.u72_text {
+    position:absolute;
+    left:184px;
+    top:59px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:184px;
+    top:59px;
+    width:86px;
+    height:16px
+}
+
+.u73_text {
+    position:absolute;
+    left:96px;
+    top:59px;
+    width:74px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:96px;
+    top:59px;
+    width:74px;
+    height:16px
+}
+
+.u74_text {
+    position:absolute;
+    left:506px;
+    top:59px;
+    width:60px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:506px;
+    top:59px;
+    width:60px;
+    height:16px
+}
+
+.u75_original {
+    background-image: url('../Проекты_по_категориям_files/u75_original.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:0px;
+    top:953px;
+    width:1020px;
+    height:151px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1026px;
+    height:157px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:68px;
+    width:1016px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:0px;
+    top:953px;
+    width:1020px;
+    height:151px
+}
+
+.u77 {
+    position:absolute;
+    left:169px;
+    top:1010px;
+    width:62px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:233px;
+    top:1010px;
+    width:62px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:302px;
+    top:1010px;
+    width:82px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:385px;
+    top:1010px;
+    width:82px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:473px;
+    top:1010px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:553px;
+    top:1010px;
+    width:76px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:634px;
+    top:1010px;
+    width:44px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:169px;
+    top:1039px;
+    width:117px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:287px;
+    top:1039px;
+    width:86px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:374px;
+    top:1039px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87 {
+    position:absolute;
+    left:16px;
+    top:972px;
+    width:136px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:169px;
+    top:980px;
+    width:72px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:243px;
+    top:980px;
+    width:77px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:323px;
+    top:980px;
+    width:45px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:169px;
+    top:1069px;
+    width:191px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_text {
+    position:absolute;
+    left:405px;
+    top:59px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:405px;
+    top:59px;
+    width:82px;
+    height:16px
+}
+
+.u93_text {
+    position:absolute;
+    left:750px;
+    top:59px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93 {
+    position:absolute;
+    left:750px;
+    top:59px;
+    width:93px;
+    height:16px
+}
+
+.u94_text {
+    position:absolute;
+    left:289px;
+    top:59px;
+    width:93px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:289px;
+    top:59px;
+    width:93px;
+    height:16px
+}
+
+.u95 {
+    position:absolute;
+    left:18px;
+    top:633px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_line {
+    background-image: url('../Проекты_по_категориям_files/u96_line.png');
+}
+
+.u96_line {
+    position:absolute;
+    left:14px;
+    top:624px;
+    width:196px;
+    height:3px;
+}
+
+.u96 {
+    position:absolute;
+    left:14px;
+    top:624px;
+    width:196px;
+    height:3px
+}
+
